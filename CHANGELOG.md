@@ -1,26 +1,12 @@
-# Changelog
+# What's New
 
-## [Unreleased]
+## November 12, 2025
 
-### Added
-- Initial blog setup
-- Markdown changelog support
-- Responsive design
+We've been working hard to improve your experience! Here's what's new:
 
-### Changed
-- Nothing yet
-
-### Fixed
-- Nothing yet
-
----
-
-## [2024-01-01]
-
-### Added
-- Example changelog entry
-- GitLab Pages deployment
-
-### Changed
-- Initial release
-
+- Dynamic category list
+- Dynamic box width
+- Font size customization
+- Persistent settings storage
+- Category filter
+- Various minor improvements and bug fixes
