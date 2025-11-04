@@ -1,4 +1,4 @@
-# inufeed Blog
+# Inufeed blog
 
 A simple static blog for inufeed, deployed via GitLab Pages. Displays changelog updates in a clean, modern interface.
 
