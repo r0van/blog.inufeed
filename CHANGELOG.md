@@ -5,9 +5,13 @@
 We've been working hard to improve your experience! Here's what's new:
 
 - Dynamic category list
+
 ![Category list](img/category_sort.gif)
+
 - Dynamic box width
+
 ![Box width](img/resize.gif)
+
 - Font size customization
 - Persistent settings storage
 - Category filter
