@@ -30,9 +30,10 @@ header {
 }
 
 header a {
-    display: inline-block;
+    display: block;
     text-decoration: none;
     transition: opacity 0.3s ease;
+    line-height: 0;
 }
 
 header a:hover {
