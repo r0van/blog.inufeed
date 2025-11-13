@@ -22,7 +22,7 @@ body {
 header {
     width: 100%;
     max-width: 1200px;
-    display: flex;
+    display: block;
     justify-content: flex-start;
     align-items: center;
     padding: 40px 20px;
